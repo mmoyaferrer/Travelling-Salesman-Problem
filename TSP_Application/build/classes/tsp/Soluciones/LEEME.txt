@@ -1,0 +1,22 @@
+- Los ficheros con extensión .opt.tour son ficheros de texto que 
+contienen el orden en que deben visitarse las ciudades
+para encontrar la solución óptima. Este fichero está descargado de la web
+http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/tsp/
+
+- El fichero optimos.txt contiene la longitud de la mejor solución conocida
+para cada problema.
+
+- Los ficheros con extensión .png contienen el gráfico gnuplot de la solución encontrada 
+con la heurística del vecino más cercano.
+
+- Los ficheros con extensión .ruta contienen el orden de las ciudades (códigos
+de ciudades) obtenido siguiendo la heurística
+del vecino más cercano. Al final aparece una indicación del coste de la ruta siguiendo
+dicho orden.
+
+- Los ficheros con extensión .data contienen el orden de las ciudades (coordenadas) obtenido
+siguiendo la heurística del vecino más cercano. Este fichero podría usarse para generar
+un gráfico con gnuplot.
+
+
+
