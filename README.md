@@ -2,6 +2,11 @@
 
 TSP solved using Java as programming language
 
+# Authors
+
+Manuel Moya Ferrer
+Jose Manuel García Giménez
+
 # License
 
 This work is licensed under the Creative Commons
